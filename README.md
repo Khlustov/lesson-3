@@ -1,4 +1,5 @@
 # lesson-3
+https://khlustov.github.io/lesson-3/
 # Домашнее задание к уроку 3
 
 ### Верстаем макет.
